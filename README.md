@@ -1,16 +1,24 @@
-Сайт был создан в рамках проектной работы студенток школы https://itgirlschool.com/
+# Website README
 
-Прототип сайта - http://fomchenkovsv.tilda.ws/
+This website was created as part of a student project at [IT Girl School](https://itgirlschool.com/).
 
-***Техническое задание:***
+**Prototype of the Website**: [http://fomchenkovsv.tilda.ws/](http://fomchenkovsv.tilda.ws/)
 
-Вводные требования к контенту: 
-- информация про опыт работы;
-- кейсы; 
-- контакты.
- На сайт будет идти реклама для потенциальных пациентов. Доктор ведёт консультации и помогает в реабилитации после тяжёлых травм.
+## Technical Specification:
 
-**Цель сайта**: конвертировать посетителя в пациента. То есть человек, зайдя на сайт, должен получить информацию и докторе и захотеть связаться с ним для получения консультации или лечения. 
+**Content Requirements**:
+- Information about the doctor's professional experience.
+- Showcase of medical cases.
+- Contact information.
 
+The website will serve as a platform for advertising to potential patients. The doctor offers consultations and rehabilitation services for individuals recovering from severe injuries.
 
-В качестве шаблона использовали макет - https://www.figma.com/file/GFlEN7Q9rgiyQzRw43AKpl/Farmzi?node-id=0%3A1
+**Website Goal**: To convert visitors into patients. In other words, when someone visits the site, they should obtain information about the doctor and be motivated to contact him for consultation or treatment.
+
+## Template:
+
+We used a design template available at [Figma](https://www.figma.com/file/GFlEN7Q9rgiyQzRw43AKpl/Farmzi?node-id=0%3A1).
+
+## Website Preview:
+
+You can preview the website at [https://surgery.on.fleek.co/](https://surgery.on.fleek.co/).
